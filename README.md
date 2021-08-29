@@ -10,3 +10,11 @@
 
 3) nano Dockerfile
 
+
+Dockerfile can be look like:
+
+FROM nginx
+
+COPY . /home/kali/DockerFiles/demo-for-docker/index.html
+
+
