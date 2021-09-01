@@ -17,10 +17,13 @@ FROM nginx
 
 COPY . /home/kali/DockerFiles/demo-for-docker/index.html
 
+# Resources
 
 https://docs.docker.com/develop/develop-images/dockerfile_best-practices/ 
 
 https://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html 
 
-
+# About Author
+Himanshi
+M21CS006
 
