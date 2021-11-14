@@ -25,5 +25,4 @@ https://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html
 
 # About Author
 Himanshi
-M21CS006
 
